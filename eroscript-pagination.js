@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Discourse 무한 스크롤 페이지네이션 변환 (/c/ 목록 전용, 안전 강화판)
+// @name         Eroscript scroll Pagination conversion
 // @namespace    http://tampermonkey.net/
-// @version      2.1
+// @version      1.0
 // @description  초기 자동 로드 1페이지만, 아이템 증감 없으면 즉시 중단, 사용자 페이지네이션 유도 포함 안정판
 // @author       You
 // @match        https://discuss.eroscripts.com/*
