@@ -6,7 +6,7 @@ Discourse 포럼에서 무한 스크롤을 페이지네이션으로 바꾸는 Ta
 ## 설치 및 사용법
 
 1. [Tampermonkey](https://www.tampermonkey.net/) 혹은 [Violentmonkey](https://violentmonkey.github.io/) 브라우저 확장 설치  
-2. `src/discourse-pagination.user.js` 파일 내용을 복사하거나 Raw URL을 이용해 스크립트를 등록하세요.  
+2. `src/eroscript-pagination.js` 파일 내용을 복사하거나 Raw URL을 이용해 스크립트를 등록하세요.  
 3. 사이트 접속 시 자동으로 페이지네이션 UI가 작동합니다.
 
 ## 주요 기능
